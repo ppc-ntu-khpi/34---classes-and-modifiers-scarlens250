@@ -6,9 +6,9 @@ public class Customer {
     private double total;
     
     public Customer(){
-            ID=6;
+            ID=12;
             isNew=true;
-            total=450;
+            total=559;
             
         }
     
