@@ -8,7 +8,7 @@ public class Customer {
     public Customer(){
             ID=345;
             isNew=true;
-            total=45055 ;
+            total=45055;
             
         }
     
